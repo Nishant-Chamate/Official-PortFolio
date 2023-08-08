@@ -28,21 +28,25 @@ html,body{
 .bounding{
     overflow: hidden;
     width: fit-content;
+    font-family: "General Sans Medium";
 
 }
 
 h5{
     transform: translateY(100%);
+    font-family: "General Sans Medium";
 }
 
 
 #secondh1{
     transform: translateY(100%);
     transition-duration: -1s;
+    font-family: "General Sans Medium";
 }
 
 .bounding .boundingelem{
     transform: translateY(100%);
+    font-family: "General Sans Medium";
 }
 
 
@@ -98,6 +102,7 @@ h5{
 
 #heading #secondh1{
     margin-left: 14.375rem;
+    font-family: "General Sans Medium";
 }
 
 .blocktext{
