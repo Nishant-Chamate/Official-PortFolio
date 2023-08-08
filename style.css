@@ -1,5 +1,6 @@
 @import url('GeneralSans-Medium.otf');
 @import url('GeneralSans-Regular.otf');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -34,19 +35,19 @@ html,body{
 
 h5{
     transform: translateY(100%);
-    font-family: "General Sans Medium";
+    
 }
 
 
 #secondh1{
     transform: translateY(100%);
     transition-duration: -1s;
-    font-family: "General Sans Medium";
+    font-family: 'Poppins', sans-serif;
+    
 }
 
 .bounding .boundingelem{
     transform: translateY(100%);
-    font-family: "General Sans Medium";
 }
 
 
@@ -97,12 +98,12 @@ h5{
     opacity: 0.6;
     font-size: 10vw;
     font-weight: 900;
-    font-family: "General Sans Medium";
+    font-family: 'Poppins', sans-serif;
 }
 
 #heading #secondh1{
     margin-left: 14.375rem;
-    font-family: "General Sans Medium";
+    font-family: 'Poppins', sans-serif;
 }
 
 .blocktext{
