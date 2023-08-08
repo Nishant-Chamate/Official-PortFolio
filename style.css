@@ -1,10 +1,12 @@
 @import url(GeneralSans-Medium.otf);
 @import url(GeneralSans-Regular.otf);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700;800&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "General Sans";
+    font-family: 'Poppins', sans-serif;
 
 }
 
