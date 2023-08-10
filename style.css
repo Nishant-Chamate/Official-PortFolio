@@ -62,7 +62,7 @@ h5{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-color: black;
+    background-image: url("/Contact/bgimg.png");
     color: white;
 }
 
