@@ -363,10 +363,12 @@ h5:hover{
     align-items: center;
     cursor: pointer;
     opacity: 0.6;
+    
 }
 
 .wtext:hover{
     opacity: 1;
+    
 }
 
 .wicons{
@@ -376,6 +378,7 @@ h5:hover{
     justify-content: space-evenly;
     margin-top: 3rem;
     margin-bottom: 4rem;
+    
 }
 
 .light:hover{
@@ -391,6 +394,7 @@ h5:hover{
     background-image: url(c.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 
@@ -404,6 +408,7 @@ h5:hover{
     background-image: url(c+.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .c{
@@ -415,6 +420,7 @@ h5:hover{
     background-image: url(java.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .d{
@@ -426,6 +432,7 @@ h5:hover{
     background-image: url(html.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .e{
@@ -437,6 +444,7 @@ h5:hover{
     background-image: url(css.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .f{
@@ -448,6 +456,7 @@ h5:hover{
     background-image: url(js.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .g{
@@ -459,6 +468,7 @@ h5:hover{
     background-image: url(node.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 .h{
@@ -472,6 +482,7 @@ h5:hover{
     background-repeat: no-repeat;
     opacity: 0.6;
     margin-top: 1.5rem;
+    cursor: none;
 }
 
 .i{
@@ -483,6 +494,7 @@ h5:hover{
     background-image: url(vsc.png);
     background-size: cover;
     opacity: 0.6;
+    cursor: none;
 }
 
 
