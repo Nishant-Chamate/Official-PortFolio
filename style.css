@@ -107,8 +107,9 @@ h5{
 }
 
 #nav h4:nth-child(2){
-    /* text-decoration: underline; */
-    border-bottom: 2px solid #0087ca;
+    /* text-decoration: underline;  can use any underline or border bottom */
+    border-bottom: 0.188rem solid #0087ca;
+    
 }
 
 #heading{
