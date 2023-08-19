@@ -131,9 +131,7 @@ h5{
     background: linear-gradient(to right, #8784CF 0%, #CF7C76 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-
-
-    
+   
 }
 
 
@@ -225,12 +223,12 @@ h5:hover{
 #herofooter .circle{
     width: 1.563rem;
     height: 1.563rem;
-    border-radius: 50%;
-    background: linear-gradient(to right, #da6c6c 0%, #181818 54%);
+    border-radius: 0.313rem;
     display: flex;
     align-items: center;
     justify-content: center;
-
+    background: transparent;
+    opacity: 0.9;
 }
 
 #second{
@@ -618,8 +616,6 @@ h5:hover{
 }
 
 .circle:hover{
-    
-    color: black;
     transform: translate3d(100%);
 } 
 
