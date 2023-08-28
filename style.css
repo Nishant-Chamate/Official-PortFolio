@@ -70,7 +70,9 @@ h5{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-color: black;
+    /* background-color: black; */
+    background: url(https://img.freepik.com/premium-vector/gradient-black-background-with-cubes_52683-76890.jpg?size=626&ext=jpg&ga=GA1.1.1651556116.1693230372&semt=ais);
+    background-size: cover;
     color: white;
 }
 
@@ -148,7 +150,7 @@ h5{
 
 
 #heading h1{
-    margin-left: 1.875rem;
+    margin-left: 5.875rem;
     line-height: 1;
     opacity: 0.8;
     font-size: 10vw;
@@ -160,9 +162,10 @@ h5{
     background: linear-gradient(to right, #8784CF 0%, #CF7C76 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
+    
    
 }
-
 
 #heading #secondh1{
     margin-left: 14.375rem;
@@ -711,4 +714,10 @@ h5:hover{
     position: fixed;
     z-index: 100;
 }
+
+
+
+
+
+
 
